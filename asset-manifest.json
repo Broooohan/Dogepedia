@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Dogepedia/static/js/main.5ba580ca.chunk.js",
+    "main.js.map": "/Dogepedia/static/js/main.5ba580ca.chunk.js.map",
+    "runtime-main.js": "/Dogepedia/static/js/runtime-main.3108faf0.js",
+    "runtime-main.js.map": "/Dogepedia/static/js/runtime-main.3108faf0.js.map",
+    "static/js/2.b6383cd3.chunk.js": "/Dogepedia/static/js/2.b6383cd3.chunk.js",
+    "static/js/2.b6383cd3.chunk.js.map": "/Dogepedia/static/js/2.b6383cd3.chunk.js.map",
+    "index.html": "/Dogepedia/index.html",
+    "static/js/2.b6383cd3.chunk.js.LICENSE.txt": "/Dogepedia/static/js/2.b6383cd3.chunk.js.LICENSE.txt",
+    "static/media/KK1.34fd06ad.jpeg": "/Dogepedia/static/media/KK1.34fd06ad.jpeg",
+    "static/media/krishanu.251dfe17.jpeg": "/Dogepedia/static/media/krishanu.251dfe17.jpeg",
+    "static/media/puppy.6922394d.jpg": "/Dogepedia/static/media/puppy.6922394d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3108faf0.js",
+    "static/js/2.b6383cd3.chunk.js",
+    "static/js/main.5ba580ca.chunk.js"
+  ]
+}
